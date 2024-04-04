@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Anastasia's Rainbow</title>
+  <style>
+    </style>
+</head>
+<body>
+    <h2>How many colors do you want?</h2>
+<input type="number" required="yes" placeholder=7 min=1 max=12></input>
+<button>Submit</button>
+
+    <script>
+    /*
+    var colors = ["red","orange","yellow","green","blue","indigo","violet"]
+
+    document.getElementById("boxOne").style.backgroundColor = colors[0];
+    document.getElementById("boxTwo").style.backgroundColor = colors[1];
+    document.getElementById("boxThree").style.backgroundColor = colors[2];
+    document.getElementById("boxFour").style.backgroundColor = colors[3];
+
+    
+    document.addEventListener("click", rainbowTwirl);
+
+    function rainbowTwirl() {
+    document.getElementById("boxOne").style.backgroundColor = colorRotate((document.getElementById("boxOne").style.backgroundColor));
+    document.getElementById("boxTwo").style.backgroundColor = colorRotate((document.getElementById("boxTwo").style.backgroundColor));
+    document.getElementById("boxThree").style.backgroundColor = colorRotate((document.getElementById("boxThree").style.backgroundColor));
+    document.getElementById("boxFour").style.backgroundColor = colorRotate((document.getElementById("boxFour").style.backgroundColor));
+    };
+    */
+
+    </script>
+
+</body>
+</html>
